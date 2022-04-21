@@ -1,0 +1,6 @@
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/client/MixinC00Handshake/ip me/earth/pingbypass/mixin/mixins/minecraft/network/client/MixinC00Handshake/field_149598_b
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNettyPacketEncoder/LOGGER me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNettyPacketEncoder/field_150798_a
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/channel me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/field_150746_k
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnMob/dataManagerEntries me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnMob/field_149044_m
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnPlayer/dataManagerEntries me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnPlayer/field_148958_j
+MD: me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/isChannelOpen ()Z me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/func_150724_d ()Z

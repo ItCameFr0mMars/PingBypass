@@ -1,0 +1,6 @@
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/client/MixinC00Handshake/ip me/earth/pingbypass/mixin/mixins/minecraft/network/client/MixinC00Handshake/b
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNettyPacketEncoder/LOGGER me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNettyPacketEncoder/a
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/channel me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/k
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnMob/dataManagerEntries me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnMob/n
+FD: me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnPlayer/dataManagerEntries me/earth/pingbypass/mixin/mixins/minecraft/network/server/MixinSPacketSpawnPlayer/i
+MD: me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/isChannelOpen ()Z me/earth/pingbypass/mixin/mixins/minecraft/network/MixinNetworkManager/g ()Z
